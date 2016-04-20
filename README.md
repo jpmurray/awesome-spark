@@ -9,7 +9,7 @@ Curated list of Laravel Spark ressources
 - [Packages](#packages)
 
 ## Essentials
-* [Laravel](http://spark.laravel.com)
+* [Spark](http://spark.laravel.com)
 * [Spark on Laracasts](https://laracasts.com/series/laravel-spark)
 
 ## Code Snippets
