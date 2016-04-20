@@ -7,6 +7,7 @@ Curated list of Laravel Spark ressources
 - [Essentials](#essentials)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
+- [Looking for more?](#more)
 
 ## Essentials
 * [Spark](http://spark.laravel.com)
@@ -18,6 +19,9 @@ Curated list of Laravel Spark ressources
 ## Packages
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
 * [Google Two Factor Authentication](https://github.com/cretueusebiu/laravel-spark-google2fa)
+
+## More
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 
 ## Contribution
 Have you found something that make Laravel Spark more awesome? Make a PR and add it to the list!
