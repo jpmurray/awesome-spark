@@ -18,6 +18,7 @@ Curated list of Laravel Spark ressources
 ## Packages
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
 * [Google Two Factor Authentication](https://github.com/cretueusebiu/laravel-spark-google2fa)
+* [JSONx - Automatic XML support for your JSON API](https://github.com/danharper/JSONx-for-Laravel)
 
 ## Contribution
 Have you found something that make Laravel Spark more awesome? Make a PR and add it to the list!
