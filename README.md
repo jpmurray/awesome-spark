@@ -13,7 +13,7 @@ Curated list of Laravel Spark ressources
 * [Spark on Laracasts](https://laracasts.com/series/laravel-spark)
 
 ## Code Snippets
-* [Spark Rotating Pricing Table](https://gist.github.com/BrianDillingham/e86204633e607f04517383a8884bfca6)
+* [Spark Rotating Pricing Table](https://gist.github.com/dillinghamio/e86204633e607f04517383a8884bfca6)
 
 ## Packages
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
