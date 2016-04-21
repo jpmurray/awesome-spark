@@ -22,6 +22,7 @@ Curated list of Laravel Spark ressources
 
 ## More
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
+* [Awesome Vue](https://github.com/vuejs/awesome-vue)
 
 ## Contribution
 Have you found something that make Laravel Spark more awesome? Make a PR and add it to the list!
