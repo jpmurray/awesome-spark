@@ -7,6 +7,7 @@ Curated list of Laravel Spark ressources
 - [Essentials](#essentials)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
+- [Articles and Tutorials](#articles-and-tutorials)
 - [Looking for more?](#more)
 
 ## Essentials
@@ -21,12 +22,12 @@ Curated list of Laravel Spark ressources
 * [Google Two Factor Authentication](https://github.com/cretueusebiu/laravel-spark-google2fa)
 * [Laravel Spark Camera](https://github.com/cretueusebiu/laravel-spark-camera)
 
+## Articles and Tutorials
+* [Improving Subscription UX](https://medium.com/@freddinator/improving-subscription-ux-in-laravel-spark-c6a2658f1a03)
+
 ## More
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 * [Awesome Vue](https://github.com/vuejs/awesome-vue)
-
-## Articles and Tutorials
-* [Improving Subscription UX](https://medium.com/@freddinator/improving-subscription-ux-in-laravel-spark-c6a2658f1a03)
 
 ## Contribution
 Have you found something that make Laravel Spark more awesome? Make a PR and add it to the list!
