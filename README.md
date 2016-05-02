@@ -27,6 +27,7 @@ Curated list of Laravel Spark ressources
 
 ## Articles and Tutorials
 * [Improving Subscription UX](https://medium.com/@freddinator/improving-subscription-ux-in-laravel-spark-c6a2658f1a03)
+* [Laravel Spark: A Crash Course](https://laratips.io/blog/laravel-spark-crash-course)
 
 ## More
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
