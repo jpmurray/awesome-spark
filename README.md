@@ -19,6 +19,8 @@ Curated list of Laravel Spark ressources
 * [Charge Per Team User - 10/user/month](https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
 * [Team Role Middleware](https://gist.github.com/dillinghamio/7d6039ef8a86d3fdfa2ce747d4d919ea)
 * [UsedByTeams Model Trait For Laravel Spark](https://gist.github.com/dillinghamio/a110c1b3bad8055f4327838bc4b11cd3)
+* [@plan Blade Directive](https://gist.github.com/dillinghamio/9b79dfab580d0f46971782ef9204e507)
+* [@role Blade Directive](https://gist.github.com/dillinghamio/080313d699b56ebf44e1fa3b59ea6f9b)
 
 ## Packages
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
