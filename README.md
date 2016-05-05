@@ -16,9 +16,9 @@ Curated list of Laravel Spark ressources
 
 ## Code Snippets
 * [Spark Rotating Pricing Table](https://gist.github.com/dillinghamio/e86204633e607f04517383a8884bfca6)
-* [Charge Per Team User - 10/user/month](https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
+* [Charge Per Team User](https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
 * [Team Role Middleware](https://gist.github.com/dillinghamio/7d6039ef8a86d3fdfa2ce747d4d919ea)
-* [UsedByTeams Model Trait For Laravel Spark](https://gist.github.com/dillinghamio/a110c1b3bad8055f4327838bc4b11cd3)
+* [UsedByTeams Model Trait](https://gist.github.com/dillinghamio/a110c1b3bad8055f4327838bc4b11cd3)
 * [@plan Blade Directive](https://gist.github.com/dillinghamio/9b79dfab580d0f46971782ef9204e507)
 * [@role Blade Directive](https://gist.github.com/dillinghamio/080313d699b56ebf44e1fa3b59ea6f9b)
 
