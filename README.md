@@ -22,6 +22,7 @@ Curated list of Laravel Spark ressources
 * [@plan Blade Directive](https://gist.github.com/dillinghamio/9b79dfab580d0f46971782ef9204e507)
 * [@role Blade Directive](https://gist.github.com/dillinghamio/080313d699b56ebf44e1fa3b59ea6f9b)
 * [@roles Blade Directive - Checks for one or multiple roles](https://gist.github.com/jpmurray/ea12b3527756d710df9d4ca996a4ae47)
+* [Laravel Spark Team Settings quick Link](https://gist.github.com/Max-Hutschenreiter/07b7413c4f65544bcc2de2a545ce7ab0)
 
 ## Packages
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
