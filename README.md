@@ -30,7 +30,7 @@ Curated list of Laravel Spark ressources
 * [Laravel Spark Camera](https://github.com/cretueusebiu/laravel-spark-camera)
 
 ## Articles and Tutorials
-* [Improving Subscription UX](https://medium.com/@freddinator/improving-subscription-ux-in-laravel-spark-c6a2658f1a03)
+* [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
 * [Laravel Spark: A Crash Course](https://laratips.io/blog/laravel-spark-crash-course)
 
 ## More
