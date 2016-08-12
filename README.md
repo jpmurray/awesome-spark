@@ -28,7 +28,6 @@ Curated list of Laravel Spark ressources
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
 * [Google Two Factor Authentication](https://github.com/cretueusebiu/laravel-spark-google2fa)
 * [Laravel Spark Camera](https://github.com/cretueusebiu/laravel-spark-camera)
-* [Spark Kiosk Notifications](https://github.com/vmitchell85/spark-kiosk-notify)
 
 ## Articles and Tutorials
 * [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
