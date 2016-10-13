@@ -1,6 +1,6 @@
 # Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ========
-Curated list of Laravel Spark ressources
+Curated list of Laravel Spark resources
 
 ## Table of Contents
 
@@ -34,6 +34,7 @@ Curated list of Laravel Spark ressources
 * [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
 * [Laravel Spark: A Crash Course](https://laratips.io/blog/laravel-spark-crash-course)
 * [Team Billing with Card Up Front in Laravel Spark](https://laratips.io/blog/team-billing-up-front-with-spark)
+* [9 Tips to Enhance Your Spark Experience](https://www.sitepoint.com/9-hot-laravel-spark-tips/)
 
 ## More
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
