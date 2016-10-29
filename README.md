@@ -30,12 +30,21 @@ Curated list of Laravel Spark resources
 * [Laravel Spark Camera](https://github.com/cretueusebiu/laravel-spark-camera)
 * [Laravel Spark Pages](https://github.com/kirschbaum/laravel-spark-pages)
 * [Spark Kiosk Notifications](https://github.com/vmitchell85/spark-kiosk-notify)
+* [Spark roles](https://github.com/ZiNETHQ/spark-roles)
+* [Help Scout Dynamic App support for Laravel Spark](https://github.com/polevaultweb/laravel-spark-helpscout)
+* [Laravel Spark Pages](https://github.com/kirschbaum/laravel-spark-pages)
+* [Spark tickets](https://github.com/PureIntellect/Tickets)
+* [Spark create Stripe plan](https://github.com/gilbitron/spark-create-stripe-plans)
+* [Sparkie: Log viewer](https://github.com/sparkie/logs)
+* [Sparkie: Support](https://github.com/sparkie/support)
 
 ## Articles and Tutorials
 * [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
 * [Laravel Spark: A Crash Course](https://laratips.io/blog/laravel-spark-crash-course)
 * [Team Billing with Card Up Front in Laravel Spark](https://laratips.io/blog/team-billing-up-front-with-spark)
 * [9 Tips to Enhance Your Spark Experience](https://www.sitepoint.com/9-hot-laravel-spark-tips/)
+* [Starting a Business with Laravel Spark](https://www.sitepoint.com/starting-a-business-with-laravel-spark/)
+* [Building a SaaS app with Laravel Spark: Web Uptime](https://deliciousbrains.com/building-saas-app-laravel-spark-web-uptime/)
 
 ## More
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
