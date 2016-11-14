@@ -45,6 +45,8 @@ Curated list of Laravel Spark resources
 * [9 Tips to Enhance Your Spark Experience](https://www.sitepoint.com/9-hot-laravel-spark-tips/)
 * [Starting a Business with Laravel Spark](https://www.sitepoint.com/starting-a-business-with-laravel-spark/)
 * [Building a SaaS app with Laravel Spark: Web Uptime](https://deliciousbrains.com/building-saas-app-laravel-spark-web-uptime/)
+* [Convert the Laravel Spark invoice email to a Mail Notification email](https://medium.com/gilbitrons-blog/convert-the-laravel-spark-invoice-email-to-a-mail-notification-email-1106a0d15b73#.lrp74kj1w)
+* [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project)
 
 ## More
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
