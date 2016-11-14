@@ -1,6 +1,9 @@
 # Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-========
+
 Curated list of Laravel Spark resources
+
+## Contribution
+Have you found something that make Laravel Spark more awesome? Make a PR and add it to the list!
 
 ## Table of Contents
 
@@ -48,9 +51,6 @@ Curated list of Laravel Spark resources
 * [Convert the Laravel Spark invoice email to a Mail Notification email](https://medium.com/gilbitrons-blog/convert-the-laravel-spark-invoice-email-to-a-mail-notification-email-1106a0d15b73#.lrp74kj1w)
 * [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project)
 
-## More
+## Even more awesome stuff
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 * [Awesome Vue](https://github.com/vuejs/awesome-vue)
-
-## Contribution
-Have you found something that make Laravel Spark more awesome? Make a PR and add it to the list!
