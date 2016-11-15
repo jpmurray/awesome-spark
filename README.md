@@ -31,7 +31,6 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
 * [Google Two Factor Authentication](https://github.com/cretueusebiu/laravel-spark-google2fa)
 * [Laravel Spark Camera](https://github.com/cretueusebiu/laravel-spark-camera)
-* [Laravel Spark Pages](https://github.com/kirschbaum/laravel-spark-pages)
 * [Spark Kiosk Notifications](https://github.com/vmitchell85/spark-kiosk-notify)
 * [Spark roles](https://github.com/ZiNETHQ/spark-roles)
 * [Help Scout Dynamic App support for Laravel Spark](https://github.com/polevaultweb/laravel-spark-helpscout)
