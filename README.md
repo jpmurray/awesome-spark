@@ -49,6 +49,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Building a SaaS app with Laravel Spark: Web Uptime](https://deliciousbrains.com/building-saas-app-laravel-spark-web-uptime/)
 * [Convert the Laravel Spark invoice email to a Mail Notification email](https://medium.com/gilbitrons-blog/convert-the-laravel-spark-invoice-email-to-a-mail-notification-email-1106a0d15b73#.lrp74kj1w)
 * [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project)
+* [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex)
 
 ## Even more awesome stuff
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
