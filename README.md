@@ -39,6 +39,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Spark create Stripe plan](https://github.com/gilbitron/spark-create-stripe-plans)
 * [Sparkie: Log viewer](https://github.com/sparkie/logs)
 * [Sparkie: Support](https://github.com/sparkie/support)
+* [Laravel Spark Ticketing System](https://github.com/PureIntellect/Tickets)
 
 ## Articles and Tutorials
 * [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
@@ -53,6 +54,8 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Laravel Spark - Pre-populating Custom Registration Fields](https://nisbeti.wordpress.com/2016/11/24/laravel-spark-pre-populating-custom-registration-fields/)
 * [How To Make API Calls With Vuex](https://metricloop.com/blog/how-to-make-api-calls-with-vuex)
 * [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature)
+* [Spark Integration Tests](https://laravel-news.com/laravel-spark-integration-tests/)
+* [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
 
 ## Even more awesome stuff
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
