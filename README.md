@@ -11,11 +11,13 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
 - [Articles and Tutorials](#articles-and-tutorials)
+- [Templates](#templates)
 - [Looking for more?](#more)
 
 ## Essentials
 * [Spark](http://spark.laravel.com)
 * [Spark on Laracasts](https://laracasts.com/series/laravel-spark)
+* [Spark on Laravel News](https://laravel-news.com/tag/spark)
 
 ## Code Snippets
 * [Spark Rotating Pricing Table](https://gist.github.com/dillinghamio/e86204633e607f04517383a8884bfca6)
@@ -56,6 +58,11 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature)
 * [Spark Integration Tests](https://laravel-news.com/laravel-spark-integration-tests/)
 * [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
+* [Laravel Spark 3 and Vue components](http://christoph-rumpel.com/2016/11/Larave-Spark-3-Using-Vue-Components/)
+
+## Templates
+* [Clear](https://vueadmintemplate.com/)
+* [Core plus](https://codecanyon.net/item/core-plus-laravel-spark-skin/19614200)
 
 ## Even more awesome stuff
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
