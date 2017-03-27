@@ -30,6 +30,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Laravel Spark Team Settings quick Link](https://gist.github.com/Max-Hutschenreiter/07b7413c4f65544bcc2de2a545ce7ab0)
 
 ## Packages
+* [Spark Integration Tests](https://github.com/laravel/spark-tests)
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
 * [Google Two Factor Authentication](https://github.com/cretueusebiu/laravel-spark-google2fa)
 * [Laravel Spark Camera](https://github.com/cretueusebiu/laravel-spark-camera)
@@ -44,21 +45,18 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Laravel Spark Ticketing System](https://github.com/PureIntellect/Tickets)
 
 ## Articles and Tutorials
-* [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
-* [Laravel Spark: A Crash Course](https://laratips.io/blog/laravel-spark-crash-course)
-* [Team Billing with Card Up Front in Laravel Spark](https://laratips.io/blog/team-billing-up-front-with-spark)
-* [9 Tips to Enhance Your Spark Experience](https://www.sitepoint.com/9-hot-laravel-spark-tips/)
-* [Starting a Business with Laravel Spark](https://www.sitepoint.com/starting-a-business-with-laravel-spark/)
-* [Building a SaaS app with Laravel Spark: Web Uptime](https://deliciousbrains.com/building-saas-app-laravel-spark-web-uptime/)
-* [Convert the Laravel Spark invoice email to a Mail Notification email](https://medium.com/gilbitrons-blog/convert-the-laravel-spark-invoice-email-to-a-mail-notification-email-1106a0d15b73#.lrp74kj1w)
-* [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project)
-* [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex)
-* [Laravel Spark - Pre-populating Custom Registration Fields](https://nisbeti.wordpress.com/2016/11/24/laravel-spark-pre-populating-custom-registration-fields/)
-* [How To Make API Calls With Vuex](https://metricloop.com/blog/how-to-make-api-calls-with-vuex)
-* [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature)
-* [Spark Integration Tests](https://laravel-news.com/laravel-spark-integration-tests/)
-* [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
-* [Laravel Spark 3 and Vue components](http://christoph-rumpel.com/2016/11/Larave-Spark-3-Using-Vue-Components/)
+* (2017-01-08) [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
+* (2016-12-02) [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature)
+* (2016-11-25) [How To Make API Calls With Vuex](https://metricloop.com/blog/how-to-make-api-calls-with-vuex)
+* (2016-11-24) [Laravel Spark - Pre-populating Custom Registration Fields](https://nisbeti.wordpress.com/2016/11/24/laravel-spark-pre-populating-custom-registration-fields/)
+* (2016-11-20) [Laravel Spark 3 and Vue components](http://christoph-rumpel.com/2016/11/Larave-Spark-3-Using-Vue-Components/)
+* (2016-11-18) [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex)
+* (2016-11-14) [Convert the Laravel Spark invoice email to a Mail Notification email](https://medium.com/gilbitrons-blog/convert-the-laravel-spark-invoice-email-to-a-mail-notification-email-1106a0d15b73#.lrp74kj1w)
+* (2016-11-11) [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project)
+* (2016-09-28) [9 Tips to Enhance Your Spark Experience](https://www.sitepoint.com/9-hot-laravel-spark-tips/)
+* (2016-06-21) [Building a SaaS app with Laravel Spark: Web Uptime](https://deliciousbrains.com/building-saas-app-laravel-spark-web-uptime/)
+* (2016-05-22) [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
+* (2016-04-29) [Starting a Business with Laravel Spark](https://www.sitepoint.com/starting-a-business-with-laravel-spark/)
 
 ## Templates
 * [Clear](https://vueadmintemplate.com/)
