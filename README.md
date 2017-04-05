@@ -38,7 +38,6 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Spark roles](https://github.com/ZiNETHQ/spark-roles)
 * [Help Scout Dynamic App support for Laravel Spark](https://github.com/polevaultweb/laravel-spark-helpscout)
 * [Laravel Spark Pages](https://github.com/kirschbaum/laravel-spark-pages)
-* [Spark tickets](https://github.com/PureIntellect/Tickets)
 * [Spark create Stripe plan](https://github.com/gilbitron/spark-create-stripe-plans)
 * [Sparkie: Log viewer](https://github.com/sparkie/logs)
 * [Sparkie: Support](https://github.com/sparkie/support)
