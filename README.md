@@ -12,6 +12,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 - [Packages](#packages)
 - [Articles and Tutorials](#articles-and-tutorials)
 - [Templates](#templates)
+- [Projects running on Spark](#projects-running-on-spark)
 - [Looking for more?](#more)
 
 ## Essentials
@@ -60,6 +61,9 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 ## Templates
 * [Clear](https://vueadmintemplate.com/)
 * [Core plus](https://codecanyon.net/item/core-plus-laravel-spark-skin/19614200)
+
+## Project running on Spark
+Add yours to the list, make a PR!
 
 ## Even more awesome stuff
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
