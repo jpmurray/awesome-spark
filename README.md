@@ -13,7 +13,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 - [Articles and Tutorials](#articles-and-tutorials)
 - [Templates](#templates)
 - [Projects running Spark](#sites-running-spark)
-- [Looking for mMre?](#looking-for-more)
+- [Looking for more?](#looking-for-more)
 
 ## Essentials
 * [Spark](http://spark.laravel.com)
