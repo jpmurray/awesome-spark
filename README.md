@@ -21,28 +21,28 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Spark on Laravel News](https://laravel-news.com/tag/spark)
 
 ## Code Snippets
-* [Spark Rotating Pricing Table](https://gist.github.com/dillinghamio/e86204633e607f04517383a8884bfca6)
-* [Charge Per Team User](https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
-* [Team Role Middleware](https://gist.github.com/dillinghamio/7d6039ef8a86d3fdfa2ce747d4d919ea)
-* [UsedByTeams Model Trait](https://gist.github.com/dillinghamio/a110c1b3bad8055f4327838bc4b11cd3)
 * [@plan Blade Directive](https://gist.github.com/dillinghamio/9b79dfab580d0f46971782ef9204e507)
 * [@role Blade Directive](https://gist.github.com/dillinghamio/080313d699b56ebf44e1fa3b59ea6f9b)
 * [@roles Blade Directive - Checks for one or multiple roles](https://gist.github.com/jpmurray/ea12b3527756d710df9d4ca996a4ae47)
+* [Charge Per Team User](https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
 * [Laravel Spark Team Settings quick Link](https://gist.github.com/Max-Hutschenreiter/07b7413c4f65544bcc2de2a545ce7ab0)
+* [Spark Rotating Pricing Table](https://gist.github.com/dillinghamio/e86204633e607f04517383a8884bfca6)
+* [Team Role Middleware](https://gist.github.com/dillinghamio/7d6039ef8a86d3fdfa2ce747d4d919ea)
+* [UsedByTeams Model Trait](https://gist.github.com/dillinghamio/a110c1b3bad8055f4327838bc4b11cd3)
 
 ## Packages
-* [Spark Integration Tests](https://github.com/laravel/spark-tests)
 * [Captainhook - Webhooks for Laravel/Spark](https://github.com/mpociot/captainhook)
 * [Google Two Factor Authentication](https://github.com/cretueusebiu/laravel-spark-google2fa)
+* [Help Scout Dynamic App support for Laravel Spark](https://github.com/polevaultweb/laravel-spark-helpscout)
 * [Laravel Spark Camera](https://github.com/cretueusebiu/laravel-spark-camera)
+* [Laravel Spark Pages](https://github.com/kirschbaum/laravel-spark-pages)
+* [Laravel Spark Ticketing System](https://github.com/PureIntellect/Tickets)
+* [Spark create Stripe plan](https://github.com/gilbitron/spark-create-stripe-plans)
+* [Spark Integration Tests](https://github.com/laravel/spark-tests)
 * [Spark Kiosk Notifications](https://github.com/vmitchell85/spark-kiosk-notify)
 * [Spark roles](https://github.com/ZiNETHQ/spark-roles)
-* [Help Scout Dynamic App support for Laravel Spark](https://github.com/polevaultweb/laravel-spark-helpscout)
-* [Laravel Spark Pages](https://github.com/kirschbaum/laravel-spark-pages)
-* [Spark create Stripe plan](https://github.com/gilbitron/spark-create-stripe-plans)
 * [Sparkie: Log viewer](https://github.com/sparkie/logs)
 * [Sparkie: Support](https://github.com/sparkie/support)
-* [Laravel Spark Ticketing System](https://github.com/PureIntellect/Tickets)
 
 ## Articles and Tutorials
 * (2017-01-08) [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
