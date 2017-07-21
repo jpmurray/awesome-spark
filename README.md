@@ -39,10 +39,12 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Laravel Spark Ticketing System](https://github.com/PureIntellect/Tickets)
 * [Spark create Stripe plan](https://github.com/gilbitron/spark-create-stripe-plans)
 * [Spark Integration Tests](https://github.com/laravel/spark-tests)
+* [Spark Invite](https://github.com/zinethq/spark-invite)
 * [Spark Kiosk Notifications](https://github.com/vmitchell85/spark-kiosk-notify)
 * [Spark roles](https://github.com/ZiNETHQ/spark-roles)
 * [Sparkie: Log viewer](https://github.com/sparkie/logs)
 * [Sparkie: Support](https://github.com/sparkie/support)
+* [Spark User Team Email](https://github.com/zinethq/spark-user-team-email]
 
 ## Articles and Tutorials
 * (2017-01-08) [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
