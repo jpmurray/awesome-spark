@@ -44,7 +44,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Spark roles](https://github.com/ZiNETHQ/spark-roles)
 * [Sparkie: Log viewer](https://github.com/sparkie/logs)
 * [Sparkie: Support](https://github.com/sparkie/support)
-* [Spark User Team Email](https://github.com/zinethq/spark-user-team-email]
+* [Spark User Team Email](https://github.com/zinethq/spark-user-team-email)
 
 ## Articles and Tutorials
 * (2017-01-08) [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
