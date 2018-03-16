@@ -68,6 +68,10 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 ## Sites Running Spark
 Add yours to the list, make a PR!
 
+## websites Made With Spark
+* Made With Spark is a currated collection of websites made with Laravel Spark. Check it out for inspiration and examples of websites made with spark. Made by [David A. Lindahl](https://twitter.com/austriker27)
+* [Made With Spark](https://madewithspark.com/)
+
 ## Looking for More
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 * [Awesome Vue](https://github.com/vuejs/awesome-vue)
