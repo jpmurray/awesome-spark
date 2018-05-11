@@ -70,5 +70,6 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 Add yours to the list, make a PR!
 
 ## Looking for More
+* [Made With Spark](https://madewithspark.com/) (Made With Spark is a currated collection by [David A. Lindahl](https://twitter.com/austriker27) of websites made with Laravel Spark.)
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 * [Awesome Vue](https://github.com/vuejs/awesome-vue)
