@@ -60,7 +60,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * (2016-06-21) [Building a SaaS app with Laravel Spark: Web Uptime](https://deliciousbrains.com/building-saas-app-laravel-spark-web-uptime/)
 * (2016-05-22) [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
 * (2016-04-29) [Starting a Business with Laravel Spark](https://www.sitepoint.com/starting-a-business-with-laravel-spark/)
-* (2016-04-26} [Per User Team Billing] (https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
+* (2016-04-26) [Per User Team Billing](https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
 
 ## Templates
 * [Clear](https://vueadmintemplate.com/)
