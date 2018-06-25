@@ -48,6 +48,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 
 ## Articles and Tutorials
 * (2018-04-02) [Creating Private/Free Plans in Laravel Spark](http://incurs.us/articles/creating-privatefree-plans-laravel-spark)
+* (2018-01-15) [How to send a “trial expiring soon” mail in Laravel Spark](https://medium.com/@freekmurze/how-to-send-a-trial-expiring-soon-mail-in-laravel-spark-fba0fce072cf)
 * (2017-01-08) [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
 * (2016-12-02) [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature)
 * (2016-11-25) [How To Make API Calls With Vuex](https://metricloop.com/blog/how-to-make-api-calls-with-vuex)
@@ -60,7 +61,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * (2016-06-21) [Building a SaaS app with Laravel Spark: Web Uptime](https://deliciousbrains.com/building-saas-app-laravel-spark-web-uptime/)
 * (2016-05-22) [Improving Subscription UX](https://blog.iamoctopus.co/2016/05/22/improving-sparks-subscription-ux/)
 * (2016-04-29) [Starting a Business with Laravel Spark](https://www.sitepoint.com/starting-a-business-with-laravel-spark/)
-* (2016-04-26} [Per User Team Billing] (https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
+* (2016-04-26} [Per User Team Billing](https://gist.github.com/dillinghamio/7f3b776e0ff1007cc877d63d6aaee10d)
 
 ## Templates
 * [Clear](https://vueadmintemplate.com/)
