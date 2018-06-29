@@ -49,7 +49,6 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 ## Articles and Tutorials
 * (2018-04-02) [Creating Private/Free Plans in Laravel Spark](http://incurs.us/articles/creating-privatefree-plans-laravel-spark)
 * (2018-01-15) [How to send a “trial expiring soon” mail in Laravel Spark](https://medium.com/@freekmurze/how-to-send-a-trial-expiring-soon-mail-in-laravel-spark-fba0fce072cf)
-* (2017-01-08) [Seeding Active Users in Laravel Spark](http://michaelrtm.me/seeding-active-users-in-laravel-spark/)
 * (2016-12-02) [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature)
 * (2016-11-25) [How To Make API Calls With Vuex](https://metricloop.com/blog/how-to-make-api-calls-with-vuex)
 * (2016-11-24) [Laravel Spark - Pre-populating Custom Registration Fields](https://nisbeti.wordpress.com/2016/11/24/laravel-spark-pre-populating-custom-registration-fields/)
