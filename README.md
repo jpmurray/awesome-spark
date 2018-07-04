@@ -47,6 +47,8 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Spark User Team Email](https://github.com/zinethq/spark-user-team-email)
 
 ## Articles and Tutorials
+* (2018-04-02) [Extend Laravel Spark to support add-on subscriptions-Part 1](https://codemason.io/blog/laravel-spark-addon-subscriptions/)
+* (2018-04-02) [Extend Laravel Spark to support add-on subscriptions-Part 2](https://codemason.io/blog/laravel-spark-addon-subscriptions-part-2/)
 * (2018-04-02) [Creating Private/Free Plans in Laravel Spark](http://incurs.us/articles/creating-privatefree-plans-laravel-spark)
 * (2018-01-15) [How to send a “trial expiring soon” mail in Laravel Spark](https://medium.com/@freekmurze/how-to-send-a-trial-expiring-soon-mail-in-laravel-spark-fba0fce072cf)
 * (2016-12-02) [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature)
