@@ -47,6 +47,7 @@ Have you found something that make Laravel Spark more awesome? Make a PR and add
 * [Spark User Team Email](https://github.com/zinethq/spark-user-team-email)
 
 ## Articles and Tutorials
+* (2018-05-30) [Extending an Open Source Tool with Laravel Spark](https://www.lnidigital.com/blog/extending-open-source-tool-laravel-spark/)
 * (2018-04-02) [Extend Laravel Spark to support add-on subscriptions-Part 1](https://codemason.io/blog/laravel-spark-addon-subscriptions/)
 * (2018-04-02) [Extend Laravel Spark to support add-on subscriptions-Part 2](https://codemason.io/blog/laravel-spark-addon-subscriptions-part-2/)
 * (2018-04-02) [Creating Private/Free Plans in Laravel Spark](http://incurs.us/articles/creating-privatefree-plans-laravel-spark)
